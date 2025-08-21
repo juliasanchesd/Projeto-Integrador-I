@@ -33,7 +33,7 @@ Este projeto propõe o desenvolvimento de um site robusto e inclusivo, com o obj
 
 ## 3. Estrutura do Repositório
 
-A organização das pastas seguirá a estrutura abaixo para manter o projeto limpo, modular e fácil de navegar:
+O repositório foi organizado em pastas para garantir modularidade, clareza e facilidade de manutenção do projeto. 
 
 - **/frontend**: Interface do usuário. Componentes, páginas, estilos, serviços e assets.
 - **/backend**: API, regras de negócio, integração com banco de dados e testes do servidor.
