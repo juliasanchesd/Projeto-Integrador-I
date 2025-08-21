@@ -1,12 +1,12 @@
 # Projeto Integrador I
 
-Este repositório contém o código-fonte e a documentação do **Projeto Integrador I**, desenvolvido como parte da disciplina de Ciência da Computação no CEUB.  
+Este projeto apresenta o desenvolvimento do "Conexão Solidária", um site que facilita o acesso a serviços essenciais para comunidades carentes, idosos e crianças, promovendo inclusão e apoio social. Além de combater a falta de acesso a serviços de apoio, o site também contribui para fortalecer a cidadania digital e a transparência.
 
 ---
 
 ## 1. Descrição
 
-O objetivo do projeto é integrar os conhecimentos adquiridos em diferentes disciplinas do curso, aplicando-os em um sistema completo com **frontend**, **backend**, **banco de dados** e **documentação**.
+Este projeto propõe o desenvolvimento de um site robusto e inclusivo, com o objetivo de conectar voluntários e profissionais que desejam oferecer serviços à comunidade para pessoas que necessitam. Ele oferece a possibilidade de encontrar serviços por categoria, localização e tipo de ajuda. Possui um sistema de avaliação e a verificação de credenciais de profissionais, como os da área de saúde, que ajudam a garantir a qualidade e a segurança dos serviços oferecidos. A plataforma promove um ambiente seguro ao permitir a comunicação inicial sem a necessidade de expor informações pessoais. O sistema foi pensado para combater a falta de acesso a serviços de apoio, tornando-se uma ferramenta de solidariedade e inclusão social.
 
 ---
 
