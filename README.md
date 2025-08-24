@@ -22,7 +22,29 @@ Este projeto propõe o desenvolvimento de um site robusto e inclusivo, com o obj
 
 ---
 
-## 2. Tecnologias Utilizadas
+## 2. Descrição do projeto
+
+texto
+
+---
+
+## 3. Contexto geral
+
+### 3.1 O que é PCD/autismo
+
+texto
+
+### 3.2 Legislação trabalhista para PCD
+
+texto
+
+### 3.3 Realidade de autistas no mercado de trabalho
+
+texto
+
+---
+
+## 4. Tecnologias Utilizadas
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python
@@ -31,7 +53,7 @@ Este projeto propõe o desenvolvimento de um site robusto e inclusivo, com o obj
 
 ---
 
-## 3. Estrutura do Repositório
+## 5. Estrutura do Repositório
 
 O repositório foi organizado em pastas para garantir modularidade, clareza e facilidade de manutenção do projeto. 
 
@@ -42,3 +64,7 @@ O repositório foi organizado em pastas para garantir modularidade, clareza e fa
   - **/docs/design**: Protótipos, wireframes, fluxos e guia de estilos.
   - **/docs/relatorios**: Relatórios (parcial/final), atas e apresentações.
 -  **/database**: Scripts SQL, migrações e *seeds* para popular o banco.
+
+---
+
+## 6. Referências
