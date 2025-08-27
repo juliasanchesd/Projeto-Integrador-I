@@ -28,7 +28,7 @@ A plataforma possuirá as informações referentes às empresas, que possuem pos
 
 ---
 
-## 3. Contexto geral
+## 3. Contexto geral.
 
 ### 3.1 O que é PCD/autismo
 
