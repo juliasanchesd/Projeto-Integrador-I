@@ -22,7 +22,7 @@ Este projeto propõe o desenvolvimento de uma solução digital, com o objetivo 
 
 ---
 
-## 2. Descrição do projeto
+## 2. Descrição do projeto.
 
 A plataforma possuirá as informações referentes às empresas, que possuem postos de trabalho destinados a esta categoria de PCD.  Isto facilitará ao público alvo, a identificação das possibilidades de trabalho inclusivo por categoria, localização geográfica e principais funções a serem desenvolvidas pelos candidatos, entre outras informações. A plataforma promoverá um ambiente seguro ao permitir a comunicação inicial sem a necessidade de expor informações pessoais. O sistema será desenvolvido visando contribuir no processo de inclusão, face a dificuldade de acesso a serviços de apoio, podendo tornar-se uma ferramenta de solidariedade e inclusão social.
 
