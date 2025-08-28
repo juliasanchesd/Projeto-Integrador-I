@@ -1,6 +1,6 @@
 # Projeto Integrador I
 
-Este projeto apresenta a pesquisa do "Conexão Solidária", uma plataforma que facilitará o acesso a postos de trabalho para indivíduos PCD (pessoas com deficiência), com foco em pessoas autistas. 
+Este projeto explora a pesquisa do "Conexão Solidária", uma plataforma que facilitará o acesso a postos de trabalho para indivíduos PCD (pessoas com deficiência), com foco em pessoas autistas do DF. 
 
 ---
 
@@ -76,7 +76,7 @@ O repositório foi organizado em pastas para garantir modularidade, clareza e fa
 
 ## 6. Referências
 
-- ROCHA, Luísa. Autista é PCD? Entenda o que a lei diz sobre seus direitos. Terra, 18 abr. 2023. Disponível em: https://www.terra.com.br/nos/autista-e-pcd-entenda-o-que-a-lei-diz-sobre-seus-direitos,4c6f777228aacd9da60fb3c21186cd32bsf4npll.html. Acesso em: 28 ago. 2025.
-- ADVOCACIA FELDMANN. Quais são os direitos trabalhistas da Pessoa com Deficiência? Jusbrasil, 2022. Disponível em: https://www.jusbrasil.com.br/artigos/quais-sao-os-direitos-trabalhistas-da-pessoa-com-deficiencia/1594457389. Acesso em: 28 ago. 2025.
-- ASSOCIAÇÃO DE MÃES E AMIGOS DE AUTISTAS DE FERRAZ DE VASCONCELOS (AMAFV). Autistas no mercado de trabalho: desafios e oportunidades para adultos com TEA. AMAFV, 25 maio 2023. Disponível em: https://www.amafv.org.br/post/autistas-no-mercado-de-trabalho-desafios-e-oportunidades-para-adultos-com-tea. Acesso em: 28 ago. 2025.
-- VALORIZANDO talentos: inclusão de pessoas autistas no ambiente de trabalho. Uninter, 24 ago. 2023. Disponível em: https://www.uninter.com/noticias/valorizando-talentos-inclusao-de-pessoas-autistas-no-ambiente-de-trabalho. Acesso em: 28 ago. 2025.
+- ROCHA, Luísa. Autista é PCD? Entenda o que a lei diz sobre seus direitos. Terra, 18 abr. 2023. Disponível em: https://www.terra.com.br/nos/autista-e-pcd-entenda-o-que-a-lei-diz-sobre-seus-direitos,4c6f777228aacd9da60fb3c21186cd32bsf4npll.html. Acesso em: 22 ago. 2025.
+- ADVOCACIA FELDMANN. Quais são os direitos trabalhistas da Pessoa com Deficiência? Jusbrasil, 2022. Disponível em: https://www.jusbrasil.com.br/artigos/quais-sao-os-direitos-trabalhistas-da-pessoa-com-deficiencia/1594457389. Acesso em: 22 ago. 2025.
+- ASSOCIAÇÃO DE MÃES E AMIGOS DE AUTISTAS DE FERRAZ DE VASCONCELOS (AMAFV). Autistas no mercado de trabalho: desafios e oportunidades para adultos com TEA. AMAFV, 25 maio 2023. Disponível em: https://www.amafv.org.br/post/autistas-no-mercado-de-trabalho-desafios-e-oportunidades-para-adultos-com-tea. Acesso em: 22 ago. 2025.
+- VALORIZANDO talentos: inclusão de pessoas autistas no ambiente de trabalho. Uninter, 24 ago. 2023. Disponível em: https://www.uninter.com/noticias/valorizando-talentos-inclusao-de-pessoas-autistas-no-ambiente-de-trabalho. Acesso em: 22 ago. 2025.
