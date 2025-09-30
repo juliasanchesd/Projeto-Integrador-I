@@ -1,12 +1,12 @@
 # Projeto Integrador I
 
-Este projeto explora a pesquisa do "Conexão Solidária", uma plataforma que facilitará o acesso a postos de trabalho para indivíduos PCD (pessoas com deficiência), com foco em pessoas autistas do DF. 
+A pesquisa do "Conexão Solidária" foca no acesso a postos de trabalho para pessoas com deficiência (PCD), com ênfase em indivíduos neurodivergentes. 
 
 ---
 
 ## 1. Objetivo do Projeto
 
-Este projeto propõe o desenvolvimento de uma solução digital, com o objetivo de identificar empresas no Distrito Federal, com proposta de inclusão no ambiente corporativo, de pessoas com autismo. Também visa o apoio a estas empresas nesta tarefa, por meio da identificação dos aspectos facilitadores e dos entraves existentes neste processo de inclusão.
+O objetivo é identificar empresas no Distrito Federal que demonstrem intenção de promover a inclusão de pessoas neurodivergentes no ambiente corporativo. O estudo também se propõe a apoiar essas empresas, identificando os fatores que facilitam e as barreiras que dificultam o processo de inclusão.
 
 ---
 
@@ -24,7 +24,7 @@ Este projeto propõe o desenvolvimento de uma solução digital, com o objetivo 
 
 ## 2. Descrição do projeto.
 
-A plataforma possuirá as informações referentes às empresas, que possuem postos de trabalho destinados a esta categoria de PCD.  Isto facilitará ao público alvo, a identificação das possibilidades de trabalho inclusivo por categoria, localização geográfica e principais funções a serem desenvolvidas pelos candidatos, entre outras informações. A plataforma promoverá um ambiente seguro ao permitir a comunicação inicial sem a necessidade de expor informações pessoais. O sistema será desenvolvido visando contribuir no processo de inclusão, face a dificuldade de acesso a serviços de apoio, podendo tornar-se uma ferramenta de solidariedade e inclusão social.
+Na pesquisa, o foco será em coletar e analisar informações sobre empresas que oferecem vagas para a categoria de PCD, facilitando o mapeamento das possibilidades de trabalho inclusivo por categoria, localização geográfica e principais funções. O estudo também se aprofundará em como um ambiente seguro pode promover a comunicação inicial sem a exposição de informações pessoais, e como a falta de acesso a serviços de apoio pode ser um obstáculo no processo de inclusão. O objetivo final é que a pesquisa se torne uma ferramenta de solidariedade e inclusão social ao identificar e documentar esses dados.
 
 ---
 
