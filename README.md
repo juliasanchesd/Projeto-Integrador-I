@@ -15,7 +15,6 @@ O objetivo é identificar empresas no Distrito Federal que demonstrem intenção
 | Integrantes       | Funções                                           |
 |-------------------|---------------------------------------------------|
 | **Beatriz Schmitz**  | Documentadora, Desenvolvedora Front-end           |
-| **Gustavo Pereira**  | Desenvolvedor Back-end                           |
 | **João Luiz Veríssimo** | Desenvolvedor Back-end                       |
 | **Júlia Sanches**     | Líder de Equipe, Desenvolvedora Front-end e Tester |
 | **Yuri D’Alessandro** | Desenvolvedor Back-end                         |
