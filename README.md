@@ -14,7 +14,7 @@ O objetivo é identificar empresas no Distrito Federal que demonstrem intenção
 
 | Integrantes       | Papeis                                          |
 |-------------------|---------------------------------------------------|
-| **Beatriz Schmitz**  | Documentação, pesquisa           |
+| **Beatriz Schmitz**  | Documentação, Pesquisa           |
 | **João Luiz Veríssimo** | Pesquisa                       |
 | **Júlia Sanches**     | Líder de Equipe, Desenvolvimento e UX Design |
 | **Yuri D’Alessandro** | Pesquisa                         |
