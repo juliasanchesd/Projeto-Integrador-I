@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dashboard – Conexão Solidária</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="layout">
+      <aside class="sidebar">
+        <div class="sidebar-logo">
+          <div class="logo-mark">CS</div>
+          <div>
+            <div class="logo-text-main">Conexão Solidária</div>
+            <div class="logo-text-sub">Painel de inclusão</div>
+          </div>
+        </div>
+
+        <div class="sidebar-section-title">Navegação</div>
+        <nav class="sidebar-nav">
+          <button class="nav-item active" data-target="overview">
+            <span class="nav-icon">📊</span>
+            <span class="nav-label">Dashboard</span>
+          </button>
+
+          <a
+            class="nav-item"
+            href="https://github.com/juliasanchesd/Projeto-Integrador-I"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span class="nav-icon">🧾</span>
+            <span class="nav-label">GitHub</span>
+          </a>
+
+          <a
+            class="nav-item"
+            href="https://github.com/juliasanchesd/Projeto-Integrador-I/blob/main/assets/Unidade%205/Entregaveis/Documenta%C3%A7%C3%A3o%20Final%20P.I%201.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span class="nav-icon">📄</span>
+            <span class="nav-label">Documento final</span>
+          </a>
+        </nav>
+
+        <div class="sidebar-footer">
+          <span class="sidebar-chip">
+            <span class="sidebar-chip-dot"></span>
+            Dados estáticos – v1.0
+          </span>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <div class="dashboard" id="top-dashboard">
+          <header class="dashboard-header">
+            <div class="title-group">
+              <h1>Dashboard – Conexão Solidária</h1>
+              <p>
+                Indicadores com base em dados do Censo 2022 (IBGE) e Senado
+                Federal.
+              </p>
+              <div class="header-subrow">
+                <span class="chip">
+                  Projeto Integrador I · Inclusão de pessoas neurodivergentes
+                </span>
+              </div>
+            </div>
+
+            <div class="header-right">
+              <div class="period-badge">
+                <span class="pill-dot"></span>
+                Dados de referência: Censo 2022 / Relatórios oficiais
+              </div>
+
+              <div class="header-controls">
+                <div class="theme-toggle">
+                  <span>Claro</span>
+                  <label class="switch">
+                    <input type="checkbox" id="themeSwitch" />
+                    <span class="slider"></span>
+                  </label>
+                  <span>Escuro</span>
+                </div>
+
+                <div class="user-pill">
+                  <div class="user-avatar">JS</div>
+                  <div class="user-meta">
+                    <span class="user-name">Júlia</span>
+                    <span class="user-role">Líder de Equipe</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </header>
+
+          <section class="kpi-row" id="sec-overview">
+            <article class="card kpi-card">
+              <h3>Percentual de pessoas diagnosticadas com TEA no Brasil</h3>
+              <div class="kpi-value">1,2%</div>
+              <div class="kpi-tag">
+                Estimativa nacional a partir da distribuição por UF
+              </div>
+            </article>
+
+            <article class="card kpi-card">
+              <h3>Taxa de desemprego entre pessoas autistas</h3>
+              <div class="kpi-value">85%</div>
+              <div class="kpi-tag">
+                Fora do mercado de trabalho (15% empregados)
+              </div>
+            </article>
+
+            <article class="card kpi-card">
+              <h3>Pessoas com TEA com ensino superior completo</h3>
+              <div class="kpi-value">15,7%</div>
+              <div class="kpi-tag">Dentro da população com TEA</div>
+            </article>
+          </section>
+
+          <section class="charts-row-top">
+            <article class="card chart-card" id="card-faixa">
+              <h2>Pessoas diagnosticadas com TEA por faixa etária (%)</h2>
+              <p class="chart-subtitle">
+                Distribuição percentual entre faixas etárias específicas.
+              </p>
+              <div class="chart-wrapper-top">
+                <canvas id="chartFaixaEtaria"></canvas>
+              </div>
+            </article>
+
+            <article class="card chart-card" id="card-escolaridade">
+              <h2>Escolaridade: TEA x população geral (%)</h2>
+              <p class="chart-subtitle">
+                Comparação direta entre grupos por nível educacional.
+              </p>
+              <div class="chart-wrapper-top">
+                <canvas id="chartEscolaridade"></canvas>
+              </div>
+            </article>
+
+            <article class="card chart-card" id="card-desemprego">
+              <h2>Situação no mercado de trabalho – pessoas com TEA</h2>
+              <p class="chart-subtitle">
+                Proporção entre pessoas empregadas e fora do mercado.
+              </p>
+              <div class="chart-wrapper-top">
+                <canvas id="chartDesemprego"></canvas>
+              </div>
+            </article>
+          </section>
+
+          <section class="charts-row-bottom" id="sec-map">
+            <article class="card chart-card">
+              <h2>Top 10 UFs com maior % de pessoas diagnosticadas com TEA</h2>
+              <p class="chart-subtitle">
+                Estados com maior proporção de diagnósticos registrados.
+              </p>
+              <div class="chart-wrapper-bottom">
+                <canvas id="chartUFPercent"></canvas>
+              </div>
+            </article>
+
+            <article class="card chart-card">
+              <h2>Estimativa de pessoas com TEA por UF (mil)</h2>
+              <p class="chart-subtitle">
+                Quantidade estimada em milhares de pessoas por unidade
+                federativa.
+              </p>
+              <div class="chart-wrapper-bottom">
+                <canvas id="chartUFAbsoluto"></canvas>
+              </div>
+            </article>
+          </section>
+        </div>
+      </main>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
