@@ -12,12 +12,12 @@ O objetivo é identificar empresas no Distrito Federal que demonstrem intenção
 
 ### Equipe
 
-| Integrantes       | Funções                                           |
+| Integrantes       | Papeis                                          |
 |-------------------|---------------------------------------------------|
-| **Beatriz Schmitz**  | Documentadora, Desenvolvedora Front-end           |
-| **João Luiz Veríssimo** | Desenvolvedor Back-end                       |
-| **Júlia Sanches**     | Líder de Equipe, Desenvolvedora Front-end e Tester |
-| **Yuri D’Alessandro** | Desenvolvedor Back-end                         |
+| **Beatriz Schmitz**  | Documentação, pesquisa           |
+| **João Luiz Veríssimo** | Pesquisa                       |
+| **Júlia Sanches**     | Líder de Equipe, Desenvolvimento e UX Design |
+| **Yuri D’Alessandro** | Pesquisa                         |
 
 ---
 
